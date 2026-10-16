@@ -1,0 +1,9 @@
+{
+  "appId": "com.arsafety.trainer",
+  "appName": "AR Safety Trainer",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https",
+    "hostname": "localhost"
+  }
+}
